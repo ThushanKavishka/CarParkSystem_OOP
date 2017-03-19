@@ -106,7 +106,7 @@ public class Car extends Vehicle {
 
     //Car's toString method
     public String toString() {
-        return "ID : " + getVehicleIdPlate() + "\n" + " Brand : " + getVehicleBrand() + "\n" + " Number Of Doors : " + getNumOfDoors()
+        return "ID Plate : " + getVehicleIdPlate() + "\n" + " Brand : " + getVehicleBrand() + "\n" + " Number Of Doors : " + getNumOfDoors()
                 + "\n" + " Colour : " + getColour() + "\n" + " Type : " + getVehicleType();
     }
 
