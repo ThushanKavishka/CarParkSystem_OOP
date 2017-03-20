@@ -11,6 +11,7 @@ package CarParkSystem;
  */
 public class Car extends Vehicle {
 
+    //declare private variables
     private String numOfDoors;
     private String colour;
     private DateTime VehicleInTime;
