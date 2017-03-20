@@ -11,7 +11,7 @@ package CarParkSystem;
  */
 public interface CarParkManager {
 
-    //create all the public abstract methods
+    //create all public abstract methods
     public void addVehicle();
 
     public void deleteVehicle();
