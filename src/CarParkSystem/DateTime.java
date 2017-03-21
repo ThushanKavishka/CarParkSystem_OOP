@@ -14,6 +14,7 @@ import java.util.*;
 public class DateTime {
 
     static Scanner sc = new Scanner(System.in);
+    //define a date
     String yearChecker = "[2-9]\\d{3}";
     String monthChecker = "(0[1-9]|1[0-2])";
     String dateChecker = "((1|2)\\d|3(0|1)|0[1-9]|[1-9])";
