@@ -11,6 +11,7 @@ package CarParkSystem;
  */
 public class Motorbike extends Vehicle {
 
+    //declare private variables
     private String sizeOfEngine;
     private DateTime VehicleInTime;
 
