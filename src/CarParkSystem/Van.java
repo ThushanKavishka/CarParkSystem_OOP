@@ -11,6 +11,7 @@ package CarParkSystem;
  */
 public class Van extends Vehicle {
 
+    //declare private variables
     private String cargoVolume;
     private DateTime VehicleInTime;
 
