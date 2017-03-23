@@ -12,6 +12,7 @@ package CarParkSystem;
 public abstract class Vehicle {
 
     DateTime dateTime;
+    //Declaring protected variables
     protected String vehiclePlate;
     protected String vehicleBrand;
     protected String vehicleType;
