@@ -20,6 +20,7 @@ import java.util.*;
 public class WestminsterCarParkManager implements CarParkManager {
 
     Scanner sc = new Scanner(System.in);
+    //creating new vehicle arraylist with size20
     static ArrayList<Vehicle> vehicle = new ArrayList<Vehicle>(20);
     static int numVehicle = 0;
     static int freeSlots;
